@@ -1,0 +1,87 @@
+p {
+    text-decoration-line: underline;
+}
+
+#conor {
+    background-color: red;
+    width: 20%;
+    padding: 10px;
+}
+
+#prenom {
+    background-color: #08ff00;
+    width: 20%;
+    padding: 10px;
+}
+
+#id_one {
+    background-color: #00ffff;
+    width: 20%;
+    padding: 10px;
+}
+
+#id_two {
+    background-color: #e6fc59;
+    width: 20%;
+    padding: 10px;
+}
+
+#id_three {
+    background-color: #ffc44b;
+    width: 20%;
+    padding: 10px;
+}
+
+#name_doe {
+    background-color: #ed83ff;
+    width: 20%;
+    padding: 10px;
+}
+
+#name_john {
+    background-color: #d06363;
+    width: 20%;
+    padding: 10px;
+}
+
+#conor_or_jane {
+    background-color: #80ff8f;
+    width: 20%;
+    padding: 10px;
+}
+
+#limit {
+    background-color: #acc6ff;
+    width: 20%;
+    padding: 10px;
+}
+
+#limit_one {
+    background-color: #fc87cc;
+    width: 20%;
+    padding: 10px;
+}
+
+#like {
+    background-color: #ffbda1;
+    width: 20%;
+    padding: 10px;
+}
+
+#like_e {
+    background-color: #4dffd4;
+    width: 20%;
+    padding: 10px;
+}
+
+#in {
+    background-color: #ffed8b;
+    width: 20%;
+    padding: 10px;
+}
+
+#between {
+    background-color: #8bc5ff;
+    width: 20%;
+    padding: 10px;
+}
